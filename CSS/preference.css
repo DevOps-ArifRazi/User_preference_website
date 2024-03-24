@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+.container{
+    padding: 1rem;
+}
+label{}
+select{
+    margin: 10px;
+
+}
+.Selection{
+
+    padding: 1rem;
+}
+main {
+    padding: 1rem;
+    font-size: 14px;
+}
+p{
+    margin:1rem 0rem;
+}
+
